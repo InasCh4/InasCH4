@@ -79,7 +79,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZjMTAwdnYxaWpleG1weXM5bzU4b3RpbGRrYzExYTBpaG85Mjk2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWscyl3Uo9eCGRdWvN/giphy.gif"  />
+<img align="right" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZjMTAwdnYxaWpleG1weXM5bzU4b3RpbGRrYzExYTBpaG85Mjk2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWscyl3Uo9eCGRdWvN/giphy.gif"  />
 
 ###
 
