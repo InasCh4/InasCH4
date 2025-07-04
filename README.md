@@ -89,10 +89,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/InasCh4/InasCh4/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">📫 Let's Connect :</h2>
 
 ###
