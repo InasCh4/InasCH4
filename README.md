@@ -79,7 +79,9 @@
 
 ###
 
-<img align="right" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZjMTAwdnYxaWpleG1weXM5bzU4b3RpbGRrYzExYTBpaG85Mjk2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWscyl3Uo9eCGRdWvN/giphy.gif"  />
+<br clear="both">
+
+<img align="right" height="70" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZjMTAwdnYxaWpleG1weXM5bzU4b3RpbGRrYzExYTBpaG85Mjk2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWscyl3Uo9eCGRdWvN/giphy.gif"  />
 
 ###
 
@@ -87,11 +89,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InasCh4/InasCh4/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InasCh4/InasCh4/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/InasCh4/InasCh4/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/InasCh4/InasCh4/output/snake.svg" alt="Snake animation" />
 
 ###
 
