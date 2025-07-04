@@ -26,19 +26,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="35" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="35" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="35" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35" alt="google logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="linkedin logo"  />
   <img width="12" />
@@ -49,8 +41,6 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=notion" height="35" alt="notion logo"  />
   <img width="12" />
